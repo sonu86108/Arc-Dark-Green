@@ -6,4 +6,5 @@ It is an arc based theme that i have twicked using oomox theme customizer.
 #Installing theme
 //just clone the repository  and paste the whole cloned folder into your ~/.themes folder or /usr/share/themes folder.
 //Now go to your theme selecter application gui or cli.
-//that's it . You have just installed  a huge and  very complicated software. lol. 
+//that's it . 
+You have done a very complecated job lol.
